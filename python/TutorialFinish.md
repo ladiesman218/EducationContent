@@ -4,7 +4,7 @@
 player.say
 ```
 ## Introduction @unplugged
-Congratulations, you have finished the lesson!
+课程已完成，恭喜！
 
 ## Step 1 
-Congratulations, you have finished the lesson!
+课程已完成，恭喜！
