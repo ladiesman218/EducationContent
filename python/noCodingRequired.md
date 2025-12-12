@@ -4,7 +4,7 @@
 player.say
 ```
 ## Introduction @unplugged
-    No coding is needed now, please go back to the map by exiting the coding window.
+    目前不需要编写代码, 关闭代码编辑窗口继续在世界中探索吧
 
 ## Step 1 
-    No coding is needed now, please go back to the map by exiting the coding window.
+    目前不需要编写代码, 关闭代码编辑窗口继续在世界中探索吧
