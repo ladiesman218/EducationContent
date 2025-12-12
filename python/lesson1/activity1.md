@@ -2,15 +2,14 @@
 ### @hideIteration true 
 
 
-# Activity 1 - Which one is right?
 
-## Step 1
-Check which one of the commands written on the computer monitors is correct and shows **"Hi"** in the chat when run.
-Press the mouse button on the right side of the monitor in the game if the code runs correctly.
-Click on the hints if you need help.
+# 挑战1 - 哪一个是正确的？
+## 步骤 1
+检查所有显示器上的命令，选择能在聊天频道显示**"你好"**的命令，点击显示器旁边的鼠标。
+如需帮助，可点击提示按钮。
 
 ### ~ tutorialhint 
-The command structure in Minecraft python is:
+我的世界中python命令的格式为：
 ```python
-command_group.command_name()
+命令分组.命令名称()
 ```
